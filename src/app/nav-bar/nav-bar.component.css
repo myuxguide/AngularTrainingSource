@@ -1,0 +1,4 @@
+.nav-item a:hover,
+.nav-item a.active{
+    background: #b8b8b8;
+}

@@ -1,0 +1,14 @@
+.card-group{
+    margin: 0 auto;
+}
+
+.card-header.bg-success{
+    background: #519251 !important;
+}
+.card-header.bg-primary{
+    background: #2C4985 !important;
+}
+.card-header.bg-dark{
+    background: #212529 !important;
+}
+
